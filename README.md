@@ -6,7 +6,7 @@ I have also made a website with **Html** and **CSS** (http://www.dolentec.ga).
 ## Statistics
 ![Dolentec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolentec&count_private=true&show_icons=true&theme=dark)
 ## Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolentec&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolentec&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 ## Contact
 Discord: dolentec#3473
 E-Mail: dolentec3474@gmail.com
