@@ -10,4 +10,4 @@ I have also made a website with **Html** and **CSS** (http://www.dolentec.ga).
 ## Contact
 Discord: dolentec#3473
 E-Mail: dolentec3474@gmail.com
-[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/id:580799686747881482)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/580799686747881482)
