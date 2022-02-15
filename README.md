@@ -10,3 +10,5 @@ I have also made a website with **Html** and **CSS** (http://www.dolentec.ga).
 ## Contact
 Discord: dolentec#3473
 E-Mail: dolentec3474@gmail.com
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/486563467810308096?theme=dark&bg=809ecf&animated=true&hideDiscrim=false&borderRadius=50px&idleMessage=Probably%20afk%20or%20coding...)](https://discord.com/users/580799686747881482)
