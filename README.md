@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my profile 👋
 Hi, I'm Niels from The Netherlands. I am currently working on a Discord-Bot with **Javascript** and **Mongoose DB** wich i am still learning.
 I also code in python for school projects.
 I have also made a website with **Html** and **CSS** (http://www.dolentec.ga).
