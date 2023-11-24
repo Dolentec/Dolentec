@@ -1,7 +1,7 @@
 # Welcome to my profile 👋
 Hi, I'm Niels from The Netherlands. I am currently working on a Discord-Bot with **Javascript** and **Mongoose DB** wich i am still learning.
 I also code in python for school projects.
-I have also made a website with **Html** and **CSS** (http://www.dolentec.ga).
+I have also made a website with **Html** and **CSS**.
 
 ## Statistics
 ![Dolentec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolentec&count_private=true&show_icons=true&theme=white)
